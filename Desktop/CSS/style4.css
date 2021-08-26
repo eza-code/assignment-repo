@@ -1,0 +1,21 @@
+.one {
+display: inline-block;
+width: 30px;
+height: 400px;
+background: black;
+
+}
+
+.two {
+display: inline-block;
+width: 150px;
+height: 400px;
+background: black;
+}
+
+.three {
+display: inline-block;
+width: 30px;
+height: 400px;
+background: black;
+}

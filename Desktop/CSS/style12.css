@@ -1,0 +1,29 @@
+.one {
+    display: inline-block;
+    width: 70px;
+    height: 50px;
+    background: black;
+    margin-right: 10px;
+
+}
+
+.two {
+
+    display: inline-block;
+    width: 140px;
+    height: 50px;
+    background: black;
+    margin-right: 5px;
+    
+}
+
+.rectangle {
+    display: inline-block;
+    width: 70px;
+    height: 300px;
+    background: black;
+margin-right: 5px;
+
+
+}
+    

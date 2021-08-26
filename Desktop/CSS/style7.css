@@ -1,0 +1,23 @@
+
+
+.header {
+    width: 250px;
+    height: 50px;
+    background: black;
+    
+
+}
+
+.rectangle {
+    display: inline-block;
+    width: 125px;
+    height: 150px;
+    background: black;
+}
+
+.footer{
+    width: 250px;
+    height: 50px;
+    background: black;
+    
+}

@@ -1,0 +1,26 @@
+.rectangle {
+width: 200px;
+height: 50px;
+background: black;
+
+}
+
+.one {
+display: inline-block;
+width: 130px;
+height: 100px;
+background: black;
+}
+
+.two {
+
+    display: inline-block;
+    width: 60px;
+    height: 100px;
+    background: black;
+
+}
+.footer {
+    width: 200px;
+    height: 50px;
+    background: black;}
