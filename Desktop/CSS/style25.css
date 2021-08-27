@@ -3,27 +3,42 @@
 width: 50px;
 height: 300px;
 background: black;
+margin-right: 10px;
 
 
 }
 
-.column {
+.header {
     display: inline-block;
-   width: 50px;
-   height: 200px;
+   width: 135px;
+   height: 50px;
    background: black;
+   margin-left: 90px;
 
    
    }
 
-.header {
- display: inline-block;
-width: 200px;
-height: 50px;
+   .header1 {
+display: inline-block;
+width: 50px;
+height: 230px;
 background: black;
+margin-left: 30px;
+
+ }
+
+   
+
+.header2 {
+ display: inline-block;
+width: 50px;
+height: 230px;
+background: black;
+margin-left: 25px;
 
 
 }
+
 
 
     
