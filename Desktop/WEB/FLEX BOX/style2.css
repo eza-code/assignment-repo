@@ -1,0 +1,59 @@
+.flexbox-item {
+
+margin: 5px;
+background: black;
+}
+
+
+.flexbox-item-1 {
+
+    min-height: 30px;
+width: 200px;
+
+}
+
+.flexbox-item-2 {
+
+min-height: 30px;
+width:95px;
+display: inline-flex;
+
+
+}
+
+.flexbox-item-3 {
+
+min-height: 30px;
+width: 95px;
+display: inline-flex;
+}
+
+.flexbox-item-4 {
+
+min-height: 30px;
+width: 200px;
+
+}
+
+.flexbox-item-5 {
+
+    min-height: 30px;
+    width: 95px;
+    display: inline-flex;
+
+}
+
+.flexbox-item-6 {
+min-height: 30px;
+width: 95px;
+display: inline-flex;
+
+}
+
+.flexbox-item-7 {
+
+min-height: 30px;
+width: 200px;
+
+}
+

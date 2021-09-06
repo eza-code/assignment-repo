@@ -1,0 +1,22 @@
+
+.flexbox-item {
+
+    margin: 5px;
+background: black;
+
+}
+
+.flexbox-item-1 {
+
+min-height: 200px;
+width: 40px;
+display: inline-flex;
+}
+
+.flexbox-item-2 {
+
+   min-height: ; height: 200px;
+    width: 65px;
+    display: inline-flex;
+
+}

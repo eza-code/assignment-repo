@@ -1,0 +1,34 @@
+.flexbox-item {
+
+    margin: 10px;
+    background: black;
+    
+    }
+    
+    .flexbox-item-1 {
+    min-height: 44px;
+    width: 190px;
+    
+    }
+    
+    .flexbox-item-2 {
+    
+    min-height: 100px;
+    width:120px ;
+    display: inline-flex;
+    
+    }
+    
+    .flexbox-item-3 {  
+       min-height: 100px;
+        width: 50px;
+    display: inline-flex;
+    margin-left: 5px;
+    }
+    
+    
+    .flexbox-item-4{
+        
+    min-height: 44px;
+    width: 190px
+    }

@@ -1,0 +1,46 @@
+.flexbox-item {
+    
+    margin: 5px;
+    background: black;
+    
+    }
+    
+    .flexbox-item-1 {
+    
+    min-height: 45px;
+    width: 210px;
+    
+    }
+    
+    .flexbox-item-2 {
+    
+    min-height: 120px;
+    width: 40px;
+    display: inline-flex;
+    
+    }
+    
+    .flexbox-item-3 {
+    
+    min-height: 120px;
+    width: 30px;
+    display: inline-flex;
+    
+    }
+    .flexbox-item-4 {
+    
+        min-height: 120px;
+        width: 100px;
+        display: inline-flex;
+        
+        }
+        .flexbox-item-5 {
+    
+            min-height: 45px;
+            width: 210px;
+            
+            }
+    
+    
+    
+    
